@@ -6,20 +6,53 @@
   <a href="http://musfiqurtuhin.me">
     <img src="https://img.shields.io/badge/Portfolio-musfiqurtuhin.me-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/TuhinMusfiqur">
-    <img src="https://img.shields.io/badge/Facebook-TuhinMusfiqur-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://scholar.google.com/citations?user=yLdzv6IAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
   </a>
-  <a href="mailto:contact@musfiqurtuhin.me">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/musfiqurtuhin/">
+  <a href="https://www.linkedin.com/in/mdmusfiqurrahmantuhin/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/MusfiqurTuhin">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.behance.net/musfiqurtuhin">
     <img src="https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
-  <a href="https://www.fiverr.com/musfiqur">
+  <a href="https://www.fiverr.com/musfiqur_">
     <img src="https://img.shields.io/badge/Fiverr-Profile-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.facebook.com/TuhinMusfiqur">
+    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/musfiqur___tuhin/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/Musfiqur_Tuhin">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@musfiqurtuhin">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://bn.quora.com/profile/Musfiqur-Tuhin">
+    <img src="https://img.shields.io/badge/Quora-Profile-B92B27?style=for-the-badge&logo=quora&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="mailto:contact@musfiqurtuhin.me">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/+8801521563251">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://t.me/musfiqurtuhin">
+    <img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://m.me/TuhinMusfiqur">
+    <img src="https://img.shields.io/badge/Messenger-Chat-006AFF?style=for-the-badge&logo=messenger&logoColor=white" />
   </a>
 </div>
 
