@@ -25,45 +25,56 @@
 
 ## 🚀 About Me
 
-I am a dedicated **Machine Learning Engineer** and **Odoo Silver Partner** based in Bangladesh. I specialize in developing scalable ML models, scraping and analyzing complex datasets, and implementing robust ERP solutions for businesses. My goal is to bridge the gap between raw data and strategic decision-making.
+I am a dedicated **Machine Learning Engineer** based in Bangladesh. I specialize in developing scalable ML models, scraping and analyzing complex datasets, and implementing robust software solutions. My goal is to bridge the gap between raw data and strategic decision-making.
 
-*   🔭 I’m currently working on **Automated Market Intelligence Tools** and **Odoo ERP Integrations**.
+*   🔭 I’m currently working on **Automated Market Intelligence Tools** and **AI-driven Web Apps**.
 *   🌱 I’m currently learning **Advanced NLP** and **Large Language Model (LLM) Agents**.
-*   👯 I’m looking to collaborate on **Open Source ML Projects** and **AI-driven Web Apps**.
-*   💬 Ask me about **Python, Machine Learning, Odoo, and Web Scraping**.
+*   👯 I’m looking to collaborate on **Open Source ML Projects**.
+*   💬 Ask me about **Python, Machine Learning, and Web Scraping**.
 
 <br />
 
-## 🛠️ Tech Stack
+## 🎓 Education
 
-<div align="center">
-
-### Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-### Machine Learning & Data Science
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-
-### Tools & Platforms
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-
-</div>
+| Degree | Institution | Year |
+| :--- | :--- | :--- |
+| **B.Sc. in Computer Science and Engineering** (Major in Data Science) | United International University | 2021 — Nov 2025 |
+| **Higher Secondary Certificate (HSC)** (Science) | Border Guard Public School & College, Sylhet | 2018 — 2020 |
+| **Secondary School Certificate (SSC)** (Science) | Habiganj Govt. High School | 2010 — 2018 |
 
 <br />
 
-## � Research & Publications
+## 💼 Experience
+
+### **Machine Learning Engineer**
+**Metamorphosis Ltd.** | *Nov 2025 - Present*
+*   Developing AI-driven solutions and automating business processes.
+
+### **Level 1 Freelancer (Graphic Design)**
+**Fiverr**
+*   Completed 20+ international design projects with consistent 5/5 star client ratings.
+*   [Fiverr Profile](https://www.fiverr.com/musfiqur)
+
+### **Intern, Graphic Design Dept.**
+**Youth School for Social Entrepreneurs (YSSE)**
+*   Created visual content for entrepreneurship campaigns, maintaining brand consistency.
+
+### **Independent Freelancer**
+*   Delivered end-to-end branding and website design solutions for clients across multiple industries.
+*   [Behance Portfolio](https://www.behance.net/musfiqurtuhin)
+
+<br />
+
+## 🛠️ Technical Skills
+
+**Languages:** Python, Java, C, C++, TypeScript, JavaScript, HTML/CSS, PHP, SQL  
+**Frameworks / ML:** TensorFlow, PyTorch, Keras, scikit-learn, OpenCV, ViT, Transformers  
+**Tools:** Git, Colab, Roboflow, LabelImg, Docker (basic), Linux (Ubuntu)  
+**Design:** Illustrator, Figma, Canva
+
+<br />
+
+## 📚 Research & Publications
 
 | Title | Conference / Journal | Status |
 | :--- | :--- | :--- |
@@ -84,7 +95,38 @@ I am a dedicated **Machine Learning Engineer** and **Odoo Silver Partner** based
 
 <br />
 
-## �📈 GitHub Stats
+## � Relevant Coursework
+
+*   Machine Learning, Data Mining, Deep Learning
+*   Artificial Intelligence, Natural Language Processing
+*   Image Processing, Computer Security
+*   Web Programming, Software Engineering, Database Management
+*   Operating Systems, Computer Networks
+
+<br />
+
+## 🤝 Leadership & Volunteering
+
+*   **Founder**, Muktanchol Sahittya Chorcha Kendro (2020 – Present)
+*   **Founder General Secretary**, Ovizatri (2016 – 2020)
+*   **Child Journalist**, National Children’s Task Force (2015 – 2017)
+*   **Patrol Leader**, Bangladesh Scouts, Habiganj Govt. High School Unit (2013 – 2018)
+
+<br />
+
+## 🏆 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Market Intelligence Tool](https://github.com/MusfiqurTuhin/market-intelligence-tool)** | Automated scraping and ML analysis of freelance markets. | Python, Sklearn, Pandas |
+| **[Metamorphosis Studio](https://github.com/MusfiqurTuhin/metamorphosis-studio-git)** | Advanced studio application. | Python, AI |
+| **[CSeasy](https://github.com/MusfiqurTuhin/CSEasy_Project)** | Bangla CSE Content Platform. | PHP, HTML, CSS |
+| **[BhangariWala](https://github.com/sonjoy2074/Bhangariwala-SElab)** | Recyclable Pickup & Selling Platform. | TypeScript |
+| **[Portfolio](https://github.com/MusfiqurTuhin/Portfolio)** | Personal portfolio website. | HTML, CSS, JS |
+
+<br />
+
+## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MusfiqurTuhin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="MusfiqurTuhin's Stats" />
@@ -94,17 +136,6 @@ I am a dedicated **Machine Learning Engineer** and **Odoo Silver Partner** based
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MusfiqurTuhin&theme=tokyonight&hide_border=true" alt="MusfiqurTuhin's Streak" />
 </div>
-
-<br />
-
-## 🏆 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Market Intelligence Tool](https://github.com/MusfiqurTuhin/market-intelligence-tool)** | Automated scraping and ML analysis of freelance markets (Fiverr) to identify strategic opportunities. | Python, Sklearn, Pandas, Selenium |
-| **[Portfolio](https://github.com/MusfiqurTuhin/Portfolio)** | Personal portfolio website showcasing my projects and skills. | HTML, CSS, JS |
-| **[CSEasy_Project](https://github.com/MusfiqurTuhin/CSEasy_Project)** | A comprehensive resource for Computer Science students. | HTML, CSS |
-| **[FizzBrush](https://github.com/MusfiqurTuhin/FizzBrush)** | Creative coding project. | SCSS, JS |
 
 <br />
 
