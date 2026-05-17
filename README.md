@@ -43,6 +43,12 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MusfiqurTuhin&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</div>
+
+<br/>
+
 ## 🛠️ Technical Skills
 
 <div align="center">
@@ -122,12 +128,6 @@
 - **Founder General Secretary** @ *Ovizatri* — Social service, blood donation, poverty relief — 2016–2020
 - **Child Journalist** @ *National Children's Task Force* — Child rights & advocacy — 2015–2017
 - **Patrol Leader** @ *Bangladesh Scouts, HGHS Unit* — 2013–2018
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MusfiqurTuhin&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</div>
 
 <br/>
 
