@@ -109,11 +109,11 @@
 <summary><b>Click to expand</b></summary>
 
 ### 🎓 Education
-- **B.Sc. in Computer Science & Engineering** (Major: Data Science) — CGPA 2.96/4.00  
+- **B.Sc. in Computer Science & Engineering** (Major: Data Science)  
   *United International University — 2021 to 2025*
-- **Higher Secondary Certificate (HSC)** — GPA 5.00/5.00  
+- **Higher Secondary Certificate (HSC)**  
   *Border Guard Public School & College, Sylhet — 2018 to 2020*
-- **Secondary School Certificate (SSC)** — GPA 5.00/5.00  
+- **Secondary School Certificate (SSC)**  
   *Habiganj Govt. High School — 2010 to 2018*
 
 ### 💼 Work Experience
@@ -138,8 +138,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MusfiqurTuhin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusfiqurTuhin&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MusfiqurTuhin&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </div>
 
 <br/>
