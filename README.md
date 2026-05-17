@@ -25,7 +25,7 @@
     <td width="62%" valign="top">
       <h2>🚀 About Me</h2>
       <p>
-        <b>Machine Learning Engineer</b> at Metamorphosis Ltd., specializing in scalable ML systems, deep learning research, and intelligent software. B.Sc. in <b>Computer Science & Engineering</b> (Major: Data Science) from <b>United International University</b> — CGPA 2.96/4.00.
+        <b>Machine Learning Engineer</b> at Metamorphosis Ltd., specializing in scalable ML systems, deep learning research, and intelligent software. B.Sc. in <b>Computer Science & Engineering</b> (Major: Data Science) from <b>United International University</b>.
       </p>
       <ul>
         <li>🔭 ML Engineer @ <b>Metamorphosis Ltd.</b> — Nov 2025–Present</li>
@@ -68,11 +68,6 @@
 
 <br/>
 
-<details open>
-<summary><b>📖 View All Publications</b></summary>
-
-<br/>
-
 | # | Title | Venue | Link |
 | :-: | :--- | :--- | :-: |
 | 1 | **Deep Learning-Based Recognition of Recaptured Images for Digital Media Authentication** | IEEE ICCIT 2025 (28th) | [![IEEE](https://img.shields.io/badge/IEEE-Xplore-00629B?style=flat-square&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11491836) |
@@ -82,8 +77,6 @@
 | 5 | **Predictive Assessment and Social-Cost Estimation of Methane Emissions in Bio-Slurry Amended Systems** | IEEE STI 2025 (7th) | [![IEEE](https://img.shields.io/badge/IEEE-Xplore-00629B?style=flat-square&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/abstract/document/11367519) |
 | 6 | **Plant Disease Recognition from the Perspective of Bangladesh: A Comparative Study of Deep Learning Models and Ensemble Techniques** | IEEE ECCE 2025 | [![IEEE](https://img.shields.io/badge/IEEE-Xplore-00629B?style=flat-square&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/abstract/document/11013222) |
 | 7 | **A Comparative Analysis of Various Deep Learning Models for Traffic Signs Recognition from the Perspective of Bangladesh** | Springer Nature, BIM 2023 | [![Springer](https://img.shields.io/badge/Springer-Nature-BB2626?style=flat-square&logo=springer&logoColor=white)](https://link.springer.com/chapter/10.1007/978-981-99-8937-9_37) |
-
-</details>
 
 <br/>
 
@@ -104,9 +97,6 @@
 <br/>
 
 ## 🎓 Experience & Education
-
-<details>
-<summary><b>Click to expand</b></summary>
 
 ### 🎓 Education
 - **B.Sc. in Computer Science & Engineering** (Major: Data Science)  
@@ -132,8 +122,6 @@
 - **Founder General Secretary** @ *Ovizatri* — Social service, blood donation, poverty relief — 2016–2020
 - **Child Journalist** @ *National Children's Task Force* — Child rights & advocacy — 2015–2017
 - **Patrol Leader** @ *Bangladesh Scouts, HGHS Unit* — 2013–2018
-
-</details>
 
 <br/>
 
