@@ -25,10 +25,11 @@
     <td width="62%" valign="top">
       <h2>🚀 About Me</h2>
       <p>
-        <b>Machine Learning Engineer</b> at Metamorphosis Ltd., specializing in scalable ML systems, deep learning research, and intelligent software. B.Sc. in <b>Computer Science & Engineering</b> (Major: Data Science) from <b>United International University</b>.
+        <b>Chief Strategy Officer (CSO) & Tech Lead</b> at HaorGrix, and a Machine Learning Engineer specializing in scalable ML systems, deep learning research, and intelligent software. B.Sc. in <b>Computer Science & Engineering</b> (Major: Data Science) from <b>United International University</b>.
       </p>
       <ul>
-        <li>🔭 ML Engineer @ <b>Metamorphosis Ltd.</b> — Nov 2025–Present</li>
+        <li>🚀 CSO & Tech Lead @ <b>HaorGrix</b> — June 2026–Present</li>
+        <li>🔭 ML Engineer @ <b>Metamorphosis Ltd.</b> — Nov 2025–June 2026</li>
         <li>📄 <b>7 peer-reviewed publications</b> — IEEE & Springer</li>
         <li>🌐 Founder & Lead Dev — <b>ViolenceTracker.org</b> (LLM/GenAI, 1000+ news/day)</li>
         <li>🎨 Independent Freelancer — <b>20+ international design projects</b>, consistent 5/5 stars</li>
@@ -113,8 +114,10 @@
   *Habiganj Govt. High School — 2010 to 2018*
 
 ### 💼 Work Experience
-- **Machine Learning Engineer** @ *Metamorphosis Ltd.* — Nov 2025 to Present  
-  Working on machine learning solutions and digital transformations.
+- **Chief Strategy Officer (CSO) & Tech Lead** @ *HaorGrix* — June 2026 to Present  
+  Leading technical strategy and engineering delivery across client projects.
+- **Machine Learning Engineer** @ *Metamorphosis Ltd.* — Nov 2025 to June 2026  
+  Worked on machine learning solutions and digital transformations.
 - **Independent Freelancer** (Graphic & Web Design) — 2020 to Present  
   20+ international branding & website projects. Consistent 5/5 stars on Fiverr.
 - **Graphic Design Intern** @ *Youth School for Social Entrepreneurs (YSSE)*
